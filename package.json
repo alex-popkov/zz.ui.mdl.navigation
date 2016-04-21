@@ -1,0 +1,19 @@
+{
+	"name": "zz.ui.mdl.navigation",
+	"version": "20160421.0.0",
+	"description": "module zz.ui.mdl.navigation fo zz project",
+	"author": {
+		"name": "Popkov Alexander",
+		"email": "popkov.aleksander@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.ui.mdl.navigation/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alex-popkov/zz.ui.mdl.navigation.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
